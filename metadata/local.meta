@@ -1,0 +1,114 @@
+[props/dell%3Apowerstore]
+owner = admin
+version = 8.0.1
+modtime = 1595156844.609690000
+
+[props/source%3A%3A...ta-add-on-for-dell-emc-powerstore%2A.log%2A]
+owner = admin
+version = 8.0.1
+modtime = 1595156844.898953000
+
+[props/source%3A%3A...ta_add_on_for_dell_emc_powerstore%2A.log%2A]
+owner = admin
+version = 8.0.1
+modtime = 1595156845.113625000
+
+[indexes/powerstore]
+owner = admin
+version = 8.0.1
+modtime = 1596592997.177691000
+
+[indexes/networker]
+owner = admin
+version = 8.0.1
+modtime = 1596593002.326248000
+
+[indexes/xio]
+owner = admin
+version = 8.0.1
+modtime = 1596593005.796941000
+
+[passwords/credential%3A__REST_CREDENTIAL__%23TA-dell-emc-powerstore-add-on-for-splunk%23configs%2Fconf-ta_dell_emc_powerstore_add_on_for_splunk_account%3Acsc_ps_3000%60%60splunk_cred_sep%60%601%3A]
+owner = admin
+version = 8.0.1
+modtime = 1596593058.944280000
+
+[passwords/credential%3A__REST_CREDENTIAL__%23TA-dell-emc-powerstore-add-on-for-splunk%23configs%2Fconf-ta_dell_emc_powerstore_add_on_for_splunk_account%3Acsc_ps_3000%60%60splunk_cred_sep%60%602%3A]
+owner = admin
+version = 8.0.1
+modtime = 1596593058.954587000
+
+[ta_dell_emc_powerstore_add_on_for_splunk_account/csc_ps_3000]
+owner = admin
+version = 8.0.1
+modtime = 1596593058.963497000
+
+[inputs/dell_powerstore%3A%2F%2Fcsc_ps_3000]
+owner = admin
+version = 8.0.1
+modtime = 1597029174.380421000
+
+[props/dell%3Axtremio]
+owner = admin
+version = 8.0.1
+modtime = 1596595848.915496000
+
+[eventtypes/alert]
+owner = admin
+version = 8.0.1
+modtime = 1597030840.042353000
+
+[props/dell%3Apowerstore%3Aalert]
+owner = admin
+version = 8.0.1
+modtime = 1597031498.298501000
+
+[tags/eventtype%3Dalert]
+owner = admin
+version = 8.0.1
+modtime = 1597216198.734635000
+
+[eventtypes/appliance]
+owner = admin
+version = 8.0.1
+modtime = 1597216311.290496000
+
+[tags/eventtype%3Dappliance]
+owner = admin
+version = 8.0.1
+modtime = 1597216351.824339000
+
+[props/dell%3Apowerstore%3Aappliance]
+owner = admin
+version = 8.0.1
+modtime = 1597216534.953094000
+
+[eventtypes/dns]
+owner = admin
+version = 8.0.1
+modtime = 1597217518.274786000
+
+[tags/eventtype%3Ddns]
+owner = admin
+version = 8.0.1
+modtime = 1597217545.241841000
+
+[props/dell%3Apowerstore%3Adns]
+owner = admin
+version = 8.0.1
+modtime = 1597217624.108969000
+
+[eventtypes/eth_port]
+owner = admin
+version = 8.0.1
+modtime = 1597217742.785353000
+
+[tags/eventtype%3Deth_port]
+owner = admin
+version = 8.0.1
+modtime = 1597217798.746541000
+
+[props/dell%3Apowerstore%3Aeth_port]
+owner = admin
+version = 8.0.1
+modtime = 1597218268.476674000
